@@ -1,0 +1,8 @@
+{
+  "name": "Vibe Prompter",
+  "description": "Master list of 100+ slash commands for AI Image Generation including Architecture, Logos, UI, Fashion, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

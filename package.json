@@ -1,0 +1,14 @@
+{
+  "name": "vibeprompter",
+  "version": "1.0.0",
+  "description": "Vibe Prompter - Static Site",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo \"No build step required\"",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
